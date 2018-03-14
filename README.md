@@ -1,4 +1,4 @@
-# K2 Candidates for atmospheric followup
+# Comparing Kepler/K2 Candidates for atmospheric followup
 
 ![](https://raw.githubusercontent.com/christinahedges/atmosphere-charts/master/charts/jband.png)
 ![](https://raw.githubusercontent.com/christinahedges/atmosphere-charts/master/charts/planetdiscoveries_5.png)
