@@ -3,3 +3,5 @@
 ![](https://raw.githubusercontent.com/christinahedges/atmosphere-charts/master/charts/jband.png)
 ![](https://raw.githubusercontent.com/christinahedges/atmosphere-charts/master/charts/planetdiscoveries_5.png)
 ![](https://raw.githubusercontent.com/christinahedges/atmosphere-charts/master/charts/K2observability_annotated.png)
+![](https://raw.githubusercontent.com/christinahedges/atmosphere-charts/master/charts/smallplanets_HZ.png)
+
